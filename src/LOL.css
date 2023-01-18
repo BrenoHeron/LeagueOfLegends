@@ -1,0 +1,13 @@
+/* CSS - LOL.css */
+* {
+    font-family: sasns-serif;
+}
+
+body {
+    text-align: center;
+}
+p {
+    max-width: 800px;
+    text-align: justify;
+    display: inline-block;
+}
